@@ -6,8 +6,6 @@ Table of Contents
 Introduction<br />
 RSA Algorithm<br />
 Image Encryption<br />
-Usage<br />
-Contributing<br />
 
 ## Introduction
 The Image Encryption Using RSA project aims to enhance the security of images by applying encryption techniques. Encryption is performed at the pixel level to ensure the confidentiality and integrity of the image data. By using the RSA algorithm, the project provides a robust and secure method for encrypting images.
